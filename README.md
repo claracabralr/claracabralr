@@ -33,7 +33,9 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 
 -🌐 Desenvolvimento de Sistemas
 -🗄️ Banco de Dados
+
 -🏗️ Arquitetura e Organização de Computadores
+
 -🧠 Programação e Lógica
 -👥 Análise e Orientação a Objetos
 -📋 Análise de Requisitos
