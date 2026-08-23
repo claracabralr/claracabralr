@@ -32,16 +32,25 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 ## 💻 O que estou aprendendo
 
 -🌐 Desenvolvimento de Sistemas
+
 -🗄️ Banco de Dados
+
 -🏗️ Arquitetura e Organização de Computadores
 
 -🧠 Programação e Lógica
+
 -👥 Análise e Orientação a Objetos
+
 -📋 Análise de Requisitos
+
 -🧩 Estruturas e organização de sistemas
+
 -📚 Desenvolvimento de projetos
+
 -🤝 Optativa de Humanidades
+
 -🚀 Boas práticas e evolução no desenvolvimento de software
+
 ---
 
 ## 🛠️ Linguagens
@@ -79,17 +88,29 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 ## 📚 Atualmente estudando
 
 -Programação em C
+
 -JavaScript
+
 -Java
+
 -Python
+
 -SQL
+
 -MySQL
+
 -Oracle Database
+
 -Postgresql
+
 -Modelagem de Banco de Dados
+
 -Git e GitHub
+
 -Figma
+
 -Canva
+
 -HTML e CSS
 
 ---
