@@ -18,7 +18,7 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
     <img src="https://img.shields.io/badge/GitHub-CLARACABRALR-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/claracabralr">
-    <img src="https://img.shields.io/badge/Instagram-@claracaabral-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@claracabralr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mariaclararegocabral1603@gmail.com">
   <img src="https://img.shields.io/badge/E--MAIL-MARIACLARAREGOCABRAL1603%40GMAIL.COM-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -31,16 +31,16 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 
 ## 💻 O que estou aprendendo
 
-🌐 Desenvolvimento de Sistemas
-🗄️ Banco de Dados
-🏗️ Arquitetura e Organização de Computadores
-🧠 Programação e Lógica
-👥 Análise e Orientação a Objetos
-📋 Análise de Requisitos
-🧩 Estruturas e organização de sistemas
-📚 Desenvolvimento de projetos
-🤝 Optativa de Humanidades
-🚀 Boas práticas e evolução no desenvolvimento de software
+-🌐 Desenvolvimento de Sistemas
+-🗄️ Banco de Dados
+-🏗️ Arquitetura e Organização de Computadores
+-🧠 Programação e Lógica
+-👥 Análise e Orientação a Objetos
+-📋 Análise de Requisitos
+-🧩 Estruturas e organização de sistemas
+-📚 Desenvolvimento de projetos
+-🤝 Optativa de Humanidades
+-🚀 Boas práticas e evolução no desenvolvimento de software
 ---
 
 ## 🛠️ Linguagens
@@ -77,31 +77,19 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 
 ## 📚 Atualmente estudando
 
-Programação em C
-
-JavaScript
-
-Java
-
-Python
-
-SQL
-
-MySQL
-
-Oracle Database
-
-Postgresql
-
-Modelagem de Banco de Dados
-
-Git e GitHub
-
-Figma
-
-Canva
-
-HTML e CSS
+-Programação em C
+-JavaScript
+-Java
+-Python
+-SQL
+-MySQL
+-Oracle Database
+-Postgresql
+-Modelagem de Banco de Dados
+-Git e GitHub
+-Figma
+-Canva
+-HTML e CSS
 
 ---
 ⭐ Obrigado por visitar meu perfil!
