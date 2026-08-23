@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Maria Clara Cabral
 
-🚀 **Buscando meu primeiro estágio **  
+🚀 Buscando meu primeiro estágio  
 🇧🇷 Brazil
 
 Sou estudante de Sistemas de Informação e estou construindo, aos poucos, minha trajetória na área de tecnologia.
@@ -61,7 +61,7 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 ## Banco de Dados 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 
 ### Ferramentas
@@ -75,29 +75,32 @@ Ainda estou no começo da minha trajetória profissional, mas tenho muita vontad
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=claracabralr&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claracabralr&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 Programação em C
+
 JavaScript
+
 Java
+
 Python
+
 SQL
+
 MySQL
+
 Oracle Database
+
 Postgresql
+
 Modelagem de Banco de Dados
+
 Git e GitHub
+
 Figma
+
 Canva
+
 HTML e CSS
 
 ---
